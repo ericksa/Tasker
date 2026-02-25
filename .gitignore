@@ -1,0 +1,20 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+
+# Tools (binaries)
+Tools/
+
+# Generated code
+Generated/
+
+# Reports
+Reports/
+
+# macOS
+.DS_Store
+
+# Local development
+.env
+.env.local
